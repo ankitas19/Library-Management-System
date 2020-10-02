@@ -1,2 +1,2 @@
 # Library-Management-System
-![](lib.gif)
+![](Lib.gif)
